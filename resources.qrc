@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/forest_complex_generator" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
